@@ -4,6 +4,8 @@
 
 Bem-vindo ao meu projeto da disciplina do melhor professor do mundo onde fizemos um jogos 😎
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSYzs3nKGVQz9Ah4huAqRWfItaoMIhAIexew&s">
+
 ## Menu 🚀
 
 - [Templates de Perfil](https://github.com/DiasEllen26/template-readme/tree/main/perfil)
